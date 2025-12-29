@@ -488,7 +488,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toScale:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: 0.10728, y: 0.10728, z: 0.10728}
+    vector3Val: {x: 0.7, y: 0.7, z: 0.7}
   toTransformOLD: {fileID: 0}
   toScaleOLD: {x: 0, y: 0, z: 0}
 --- !u!114 &184872380
@@ -636,19 +636,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -53.636536, y: 33.230705}
+  scrollPos: {x: -59.58256, y: 26.685085}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 541
-  zoom: 0.76000017
+  zoom: 0.79000014
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 184872391}
+  selectedCommands:
+  - {fileID: 184872405}
   variables: []
   description: 
   stepPause: 0
@@ -955,7 +957,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toScale:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: 0.10728, y: 0.10728, z: 0.10728}
+    vector3Val: {x: 0.7, y: 0.7, z: 0.7}
   toTransformOLD: {fileID: 0}
   toScaleOLD: {x: 0, y: 0, z: 0}
 --- !u!114 &184872397
@@ -1645,7 +1647,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toScale:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: 0.10728, y: 0.10728, z: 0.10728}
+    vector3Val: {x: 0.7, y: 0.7, z: 0.7}
   toTransformOLD: {fileID: 0}
   toScaleOLD: {x: 0, y: 0, z: 0}
 --- !u!114 &184872423
@@ -2039,7 +2041,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toScale:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: 0.10728, y: 0.10728, z: 0.10728}
+    vector3Val: {x: 0.7, y: 0.7, z: 0.7}
   toTransformOLD: {fileID: 0}
   toScaleOLD: {x: 0, y: 0, z: 0}
 --- !u!114 &184872437
@@ -2281,7 +2283,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toScale:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: 0.10728, y: 0.10728, z: 0.10728}
+    vector3Val: {x: 0.7, y: 0.7, z: 0.7}
   toTransformOLD: {fileID: 0}
   toScaleOLD: {x: 0, y: 0, z: 0}
 --- !u!114 &184872445
